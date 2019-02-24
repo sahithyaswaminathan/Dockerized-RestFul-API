@@ -1,0 +1,9 @@
+version: '3.4'
+
+services:
+  customer-details: 
+    build: .
+    volumes:
+      - .:/usr/src/app
+    ports:
+      - "80:80"
