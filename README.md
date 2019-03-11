@@ -14,7 +14,7 @@ Python 3.4 or above
 
 This project is intended to build Customer details database using REST API in Python. Flask is used to build the web framework and the app script is executed inside the docker container. Docker is used because it provides a hassle free environment to create, deploy and run scripts. 
 
-##### Installations
+#### Installations
 
 ###### Docker Toolbox: 
 Step by step procedure to install docker toolbox is available in https://docs.docker.com/toolbox/toolbox_install_windows/
